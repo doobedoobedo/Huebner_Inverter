@@ -4608,4 +4608,48 @@ Wire Notes Line style solid
 	18800 2700 18800 4200
 Wire Notes Line style solid
 	18800 4200 14250 4200
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5E2BF7CF
+P 2500 13000
+F 0 "H1" H 2600 13046 50  0000 L CNN
+F 1 "MountingHole" H 2600 12955 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_4.3mm_M4" H 2500 13000 50  0001 C CNN
+F 3 "~" H 2500 13000 50  0001 C CNN
+	1    2500 13000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5E2BFA5D
+P 2500 13250
+F 0 "H2" H 2600 13296 50  0000 L CNN
+F 1 "MountingHole" H 2600 13205 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_4.3mm_M4" H 2500 13250 50  0001 C CNN
+F 3 "~" H 2500 13250 50  0001 C CNN
+	1    2500 13250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5E2BFE5B
+P 2500 13500
+F 0 "H3" H 2600 13546 50  0000 L CNN
+F 1 "MountingHole" H 2600 13455 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_4.3mm_M4" H 2500 13500 50  0001 C CNN
+F 3 "~" H 2500 13500 50  0001 C CNN
+	1    2500 13500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5E2C0251
+P 2500 13750
+F 0 "H4" H 2600 13796 50  0000 L CNN
+F 1 "MountingHole" H 2600 13705 50  0000 L CNN
+F 2 "Mounting_Holes:MountingHole_4.3mm_M4" H 2500 13750 50  0001 C CNN
+F 3 "~" H 2500 13750 50  0001 C CNN
+	1    2500 13750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
